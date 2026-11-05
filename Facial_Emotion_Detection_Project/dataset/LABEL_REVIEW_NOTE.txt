@@ -1,0 +1,5 @@
+The emotion labels in labels.csv are tentative visual annotations from small 64x64 grayscale images.
+They are not ground-truth labels and must be reviewed by a human familiar with the dataset.
+Blank emotion cells mean the visible expression was ambiguous; do not fill them by guessing.
+These images appear to contain one image per subject, not multiple examples of each expression.
+This small dataset is not sufficient for a reliable real-world emotion classifier.

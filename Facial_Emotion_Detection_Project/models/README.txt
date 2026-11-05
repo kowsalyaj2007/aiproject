@@ -1,0 +1,1 @@
+Model files are generated only after labelled data is added and src/train.py runs successfully.

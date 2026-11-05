@@ -1,0 +1,1 @@
+The 40 images you supplied are copied into raw_images. Fill emotion labels in labels.csv. Do not use subject IDs as emotion labels.
